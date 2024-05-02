@@ -20,7 +20,7 @@ The Keylogger project is a simple application designed to capture screenshots an
  
  - Compressing all scripts into one
 1. Compress all the scripts into one file along with the image file.
-2. Use the sfx options whike compressing and set the image to load first then the driver script
+2. Use the sfx options while compressing and set the image to load first then the driver script
 
 - At the Reciever's end.
 1. Install netcat tool on the machine from https://nmap.org/download.html
