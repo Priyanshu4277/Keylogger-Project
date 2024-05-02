@@ -13,7 +13,9 @@ The Keylogger project is a simple application designed to capture screenshots an
 1. Open the main code(Windows Update Service 22.4.2.py)
 2. Check for the reciever ip, port number comment.
 3. Update the variables i.e. ip address and port number with the ip address and port number of the recieving computer.
-4. (Optional) Change the period 
+4. (Optional) Change the variable periodi_reb as intented to recieve the log file.
+5. Convert the code to .exe using compiling tools like auto-py-to-exe, etc.
+6. Compress to 
 - To stop the Keylogger, terminate the script or use the predefined exit command (if any).
 
 ## Important Notes
