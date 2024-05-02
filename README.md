@@ -34,4 +34,5 @@ The Keylogger project is a simple application designed to capture screenshots an
 - **Security**: Be cautious when handling the captured data. Store it securely and avoid transmitting it over unsecured channels.
 
 ## Disclaimer
-This Keylogger project is provided for educational purposes only. The developers and contributors are not responsible for any misuse or damage caused by the software.
+- This Keylogger project is provided for educational purposes only. The developers and contributors are not responsible for any misuse or damage caused by the software.
+- Script for complete removal of this keylogger is still pending so use the keylogger at your own risk.
