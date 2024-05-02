@@ -24,7 +24,7 @@ The Keylogger project is a simple application designed to capture screenshots an
 
 - At the Reciever's end.
 1. Install netcat tool on the machine from https://nmap.org/download.html
-2. Run the toola and set your computer as listner for the portnumber assigned in the code.
+2. Run the tool and set your computer as listner for the portnumber assigned in the code.
 3. Save the recived file to the desired folder.
 4. Change the extention of the file to .zip to open it.
 
